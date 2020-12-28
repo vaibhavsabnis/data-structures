@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basic-datastructures/basic-datastructures.iml" filepath="$PROJECT_DIR$/basic-datastructures/basic-datastructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/data-structures.iml" filepath="$PROJECT_DIR$/.idea/data-structures.iml" />
+    </modules>
+  </component>
+</project>
